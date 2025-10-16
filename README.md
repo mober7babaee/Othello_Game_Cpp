@@ -93,5 +93,7 @@ Once compiled, run the executable and use one of the following commands to play 
 > exit
 ``` 
 **Language:** C++20  
+
 **Author:** Mober
+
 **Project Type:** Advanced Programming Final Project
